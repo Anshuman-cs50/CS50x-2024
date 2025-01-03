@@ -1,0 +1,21 @@
+Answer 1:
+    Based on the top 100 songs of the listener, his audio aura can ba characterised as follows:
+
+        1. Energy: The average energy of the top 100 songs is 0.65906. Which is greater than 0.25 and less than 0.75. This means that the listenter's songs are moderately energetic.
+
+        2. Valence: The average valence of the top 100 songs is 0.484443. Which is greater than 0.25 and less than 0.75. This means that the listener's songs are neutral: neither particularly happy or sad.
+
+        3. Danceability: The average danceability of the top 100 songs is 0.71646. Which is nearly 0.75 but lesser. This means that the listener likes to listen songs which are quite danceable.
+
+    Based on the average values, we can conclude that the user's two prominent moods are: Danceable and Energetic.
+
+Answer 2:
+    Why this method might not be very representative:
+        1. Temporary variations: Due to some real life events, the taste in music of a person varies. These variations during a perod of time cannot be correctly measured by this method.
+
+        2. Diversity is music: The listener might have a variety of taste in music which cannot be well represented by these averages.
+
+    Better ways of calculating the audio aura which I propose:
+        1. Weighted averages: Instead of using just the averages, we can use weighted averages by taking the number of times the songs have been played. This might give us a different result.
+
+        2. Periodic analysis: We can use periodic analysis of the listener's music taste to analyse the variations of taste by changing months and seasons.
