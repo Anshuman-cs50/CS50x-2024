@@ -1,0 +1,27 @@
+# Specification for HTML and CSS Usage
+
+## HTML Tags Used:
+1. <nav> - Used for the breadcrumb navigation within the .nav__ class.
+2. <ol> - Used to create the ordered list for the breadcrumb navigation.
+3. <li> - Used to define individual items within the breadcrumb navigation list.
+4. <a> - Used to create hyperlinks in the breadcrumb navigation.
+5. <hr> - Used to create a horizontal rule for visual separation between sections.
+6. <div> - Used as a container for various sections, including navigation, carousel, and photo description.
+7. <img> - Used to display images within the carousel.
+8. <button> - Used for the previous and next buttons in the carousel.
+9. <span> - Used within the carousel buttons for icon styling and accessibility.
+10. <h5> - Used as a heading for the photo description section.
+11. <p> - Used to describe the images in the photo description section.
+
+## CSS Properties Used:
+1. display - Applied to .container to define the layout as a flexbox.
+2. align-items - Used in .container to align items centrally along the cross axis.
+3. margin-left - Used in multiple selectors (e.g., .container img, .nav__, .carousel) to create space on the left side.
+4. max-width - Applied to images and the carousel to control their width within the container.
+5. height - Used with the .container img selector to maintain the aspect ratio of images.
+
+## Bootstrap Usage:
+- Used Bootstrap for the breadcrumb navigation, carousel, and button styling within the carousel controls.
+
+## JavaScript Usage:
+- Included Bootstrap's JavaScript bundle to enable carousel functionality and interactivity.

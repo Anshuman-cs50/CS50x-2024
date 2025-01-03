@@ -1,0 +1,30 @@
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.container img {
+    margin-left: 20px;
+    max-width: 100%;
+    height: auto;
+}
+
+.container .text {
+    margin-left: 20px;
+}
+
+.nav__ {
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+.carousel {
+    margin-left: 20px;
+    margin-top: 30px;
+    max-width: 50%;
+}
+
+.photo_desc {
+    margin-left: 40px;
+    margin-right: 40px;
+}

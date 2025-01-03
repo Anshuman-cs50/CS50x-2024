@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: When 'sort1' is applied to 'sorted50000.txt', is takes just over 2 seconds to give the sorted output. Whereas, when it is applied to 'reversed50000.txt' and 'random50000.txt', it takes significantly higher time to give the sorted output. Meaning, the output function of 'sort1' is very small for the best case scenario as compared to other cases.
+
+sort2 uses: Merge Sort
+
+How do you know?: When 'sort2' is applied to the text files, it takes just under 4 seconds to give the sorted output in every case. Meaning, the output function of 'sort2' is likely to be same for all cases. So, it is either 'Selection Sort' or 'Merge Sort' because both of them have same functions for best and worst case scenarios. Also, the time 'sort2' takes is less than time taken by 'sort3' in each case; meaning it uses the 'Merge Sort' algorithm.
+
+sort3 uses: Selection Sort
+
+How do you know?: When 'sort3' is applied to the text files, it takes just over 4 seconds to give the sorted output in every case. Meaning, the output function of 'sort3' is likely to be the same for all cases. And since it is slower than 'sort2', it is likely to be using the 'Selection Sort' algorithm.
